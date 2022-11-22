@@ -1,1 +1,1 @@
-# ResearchProject
+The Skybox project was created following the tutorial on learnopengl.

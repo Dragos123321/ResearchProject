@@ -1,0 +1,269 @@
+﻿  Buffers.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Buffers.cpp(118,29): warning C4018: '<': signed/unsigned mismatch
+  CloudModel.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\ScreenSpaceShader.h(16,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\CloudModel.cpp(103,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\CloudModel.cpp(105,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\CloudModel.cpp(106,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\CloudModel.cpp(107,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\CloudModel.cpp(113,25): warning C4305: '=': truncation from 'double' to 'float'
+  DrawableObject.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  ScreenSpaceShader.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\ScreenSpaceShader.h(16,25): warning C4227: anachronism used: qualifiers on reference are ignored
+  Skybox.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\ScreenSpaceShader.h(16,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Skybox.cpp(53,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Skybox.cpp(107,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Terrain.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.h(51,31): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.cpp(24,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.cpp(25,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.cpp(122,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.cpp(137,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.cpp(163,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.cpp(309,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  VolumetricCloud.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\ScreenSpaceShader.h(16,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\VolumetricCloud.cpp(27,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\VolumetricCloud.cpp(39,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\VolumetricCloud.cpp(99,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\VolumetricCloud.cpp(14,12): warning C4101: 't2': unreferenced local variable
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\VolumetricCloud.cpp(14,8): warning C4101: 't1': unreferenced local variable
+  Water.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.h(51,31): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Water.cpp(88,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Window.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Window.cpp(69,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Window.cpp(70,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Window.cpp(74,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Window.cpp(75,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Window.cpp(77,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Window.cpp(78,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Window.cpp(85,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(125,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(126,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(127,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(128,1): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(132,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\Include\camera.h(149,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\ScreenSpaceShader.h(16,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\Terrain.h(51,31): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\main.cpp(71,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\VolumetricRendering\main.cpp(88,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  VolumetricRendering.vcxproj -> D:\Dragos\Work\Faculty\Research Project\VolumetricRendering\x64\Debug\VolumetricRendering.exe
